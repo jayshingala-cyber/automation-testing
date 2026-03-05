@@ -1,0 +1,14 @@
+let name = "Jay Shingala";
+const age = 22;
+let isStudent =true;
+let city = "Ahm";
+let salary = 10n;
+let lname;
+let n = null;
+console.log("Name is:"+ typeof name);
+console.log("LastName is:"+ typeof lname);
+console.log("Age is:"+ typeof age);
+console.log("Student is:"+ typeof isStudent);
+console.log("City is:"+typeof city);
+console.log("salary is:"+typeof salary);
+console.log("Value is:"+typeof n);
